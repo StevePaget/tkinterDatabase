@@ -1,0 +1,7 @@
+Activity Name,ActivityDay,ActivityTime,ActivityDescription,ActivityID
+Swimming,4,15:00,For beginners,1
+Swimming,1,16:00,Advanced class,2
+Archery,2,12:00,Maximum 5 people. Beginners,3
+Zumba,5,13:00,All welcome. Bring dance clothes,4
+Swimming,2,15:15,Intermediate,5
+Water Polo,3,15:00,Teams of 4,6
